@@ -5,7 +5,7 @@
 
 export const personalInfo = {
   name: "Vaibhav Sharma",
-  title: "GenAI Engineer | Backend Engineer| Building Production AI Systems",
+  title: "GenAI Engineer | Backend Engineer | Building Production AI Systems",
   subtitle: "ECE Student | Graduating 2027 | Passionate about Building Intelligent Systems",
   location: "Delhi NCR, India",
   email: "vaibhav@example.com",
