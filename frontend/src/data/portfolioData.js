@@ -8,7 +8,7 @@ export const personalInfo = {
   title: "GenAI Engineer | Backend Engineer | Building Production AI Systems",
   subtitle: "ECE Student | Graduating 2027 | Passionate about Building Intelligent Systems",
   location: "Delhi NCR, India",
-  email: "vaibhav@example.com",
+  email: "vaibhav.sharmahello@gmail.com",
   
   // Bio for About section
   bio: [
@@ -93,8 +93,8 @@ export const projects = [
     image: "https://images.unsplash.com/photo-1767716134786-92b647b12846",
     tags: ["LangChain", "RAG", "Python", "Image Extraction", "GenAI"],
     category: "GenAI",
-    github: "https://github.com/winterhell823/medibot",
-    demo: "https://medibot-demo.com"
+    github: "https://github.com/winterhell823/Medi-Bot.git",
+    demo: "https://medical-chatassistant.streamlit.app/"
   },
   {
     title: "Multi-Agent Task Orchestrator",
