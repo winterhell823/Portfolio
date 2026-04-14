@@ -97,13 +97,13 @@ export const projects = [
     demo: "https://medical-chatassistant.streamlit.app/"
   },
   {
-    title: "Multi-Agent Task Orchestrator",
-    description: "Built using CrewAI to coordinate multiple AI agents for complex task execution. Implements agent collaboration patterns for automated workflow management and decision-making processes.",
-    image: "https://images.unsplash.com/photo-1655720828018-edd2daec9349",
-    tags: ["CrewAI", "Multi-Agent", "Python", "AI Orchestration"],
+    title: "Book Recommendation System",
+    description: "BookHaven is a full-stack web application designed to track user reading preferences and provide personalized book recommendations. It features a modern, responsive user interface and robust backend services handling secure user authentication, book cataloging, and intelligent recommendation generation.",
+    image: "https://collection.cloudinary.com/dl5wqbb6h/ea674e7752a9a4a928c7739d979505f9",
+    tags: ["Rest APIs", "React", "Java", "Machine Learning","Matrix-Search Algorithm"],
     category: "GenAI",
-    github: "https://github.com/winterhell823/task-orchestrator",
-    demo: "#"
+    github: "https://github.com/winterhell823/BookRecommendationHaven",
+    demo: "https://book-recommendation-haven.vercel.app/"
   },
   {
     title: "Smart Document Analyzer",
@@ -111,8 +111,8 @@ export const projects = [
     image: "https://images.unsplash.com/photo-1767966928908-9eeaa1a2cc39",
     tags: ["RAG", "Vector DB", "FastAPI", "React", "LLMs"],
     category: "Full Stack",
-    github: "https://github.com/winterhell823/doc-analyzer",
-    demo: "#"
+    github: "https://github.com/winterhell823/financial-document-analyzer-debug",
+    demo: "https://github.com/winterhell823/financial-document-analyzer-debug"
   },
   {
     title: "Real-time Chat Analytics",
