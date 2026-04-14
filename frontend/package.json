@@ -58,11 +58,11 @@
   },
   "homepage": "https://winterhell823.github.io/Portfolio",
   "scripts": {
-    "start": "craco start",
-    "build": "craco build",
-    "test": "craco test",
+    "preview": "vite preview",
+    "build": "vite build",
+    "dev": "vite",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "browserslist": {
     "production": [
