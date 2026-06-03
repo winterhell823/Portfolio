@@ -159,4 +159,4 @@ export const contactInfo = {
 };
 
 // Resume file path (put your resume PDF in /public folder)
-export const resumeUrl = "https://drive.google.com/file/d/1CFnJYHz0IMrYwXuqiEsRCW6V22PyyWRA/view?usp=sharing";
+export const resumeUrl = "https://drive.google.com/file/d/1o3sioEIc6TCrAUyVYB2u4NGzSPR6k4bt/view?usp=sharing";
